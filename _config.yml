@@ -4,8 +4,7 @@ email: zhou437383092@163.com
 description: > #周鹏的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://zhoupIT.github.io/ITBlog/" # the base hostname & protocol for your site
-twitter_username: coolnameismy@hotmail.com
-github_username:  coolnameismy
+github_username:  zhoupIT
 
 # Build settings
 #markdown: kramdown
@@ -13,14 +12,13 @@ permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
   name: 周鹏
-  email: coolnameismy@hotmail.com
-  link: http://liuyanwei.jumppo.com/
-  weibo: http://weibo.com/1897719834
-  github: http://github.com/coolnameismy
+  email: zhou437383092@163.com
+  weibo: http://weibo.com/2151268355/profile?topnav=1&wvr=6&is_all=1
+  github: http://github.com/zhoupIT
 title: 周鹏的技术博客                             #自定义常量
 
 # avatar头像及Favicon
-avatar: https://avatars1.githubusercontent.com/u/5010799?v=3&amp;s=460
+avatar: http://upload-images.jianshu.io/upload_images/1041928-dc6bb7346f4c7d7c.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 #favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 locals:                                     #自定义常量
@@ -43,4 +41,4 @@ markdown: kramdown                         #markdown解释器
 
 # disqus 设置
 disqus:
-  shortname: coolnameismy
+  shortname: zhoupIT
