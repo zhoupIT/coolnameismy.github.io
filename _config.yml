@@ -1,9 +1,9 @@
 # Site settings
 title: 周鹏的技术博客
-email: coolnameismy@hotmail.com
+email: zhou437383092@163.com
 description: > #周鹏的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://zhoupIT.github.io/ITBlog/" # the base hostname & protocol for your site
+# url: "http://zhoupIT.github.io/ITBlog/" # the base hostname & protocol for your site
 twitter_username: coolnameismy@hotmail.com
 github_username:  coolnameismy
 
